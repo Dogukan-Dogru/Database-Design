@@ -1,0 +1,501 @@
+BookID,BookName,BookPrice
+1.,Don Quixote,99
+2.,Alice's Adventures in Wonderland,72
+3.,The Adventures of Huckleberry Finn,28
+4.,The Adventures of Tom Sawyer,34
+5.,Treasure Island,93
+6.,Pride and Prejudice,59
+7.,Wuthering Heights,1
+8.,Jane Eyre,14
+9.,Moby Dick,60
+10.,The Scarlet Letter,59
+11.,Gulliver's Travels,42
+12.,The Pilgrim's Progress,66
+13.,A Christmas Carol,31
+14.,David Copperfield,46
+15.,A Tale of Two Cities,51
+16.,Little Women,28
+17.,Great Expectations,88
+18.,"The Hobbit, or, There and Back Again",33
+19.,"Frankenstein, or, the Modern Prometheus",78
+20.,Oliver Twist,22
+21.,Uncle Tom's Cabin,61
+22.,Crime and Punishment,15
+23.,Madame Bovary: Patterns of Provincial life,52
+24.,The Return of the King,6
+25.,Dracula,91
+26.,The Three Musketeers,84
+27.,Brave New World,36
+28.,War and Peace,60
+29.,To Kill a Mockingbird,59
+30.,The Wizard of Oz,96
+31.,Les Misérables,54
+32.,The Secret Garden,50
+33.,Animal Farm,31
+34.,The Great Gatsby,14
+35.,The Little Prince,59
+36.,The Call of the Wild,100
+37.,"20,000 Leagues Under the Sea",3
+38.,Anna Karenina,24
+39.,The Wind in the Willows,31
+40.,The Picture of Dorian Gray,39
+41.,The Grapes of Wrath,94
+42.,Sense and Sensibility,65
+43.,The Last of the Mohicans,13
+44.,Tess of the d'Urbervilles,53
+45.,Harry Potter and the Sorcerer's Stone,66
+46.,Heidi,13
+47.,Ulysses,6
+48.,The Complete Sherlock Holmes,92
+49.,The Count of Monte Cristo,11
+50.,The Old Man and the Sea,59
+51.,"The Lion, the Witch, and the Wardrobe",88
+52.,The Hunchback of Notre Dame,94
+53.,Pinocchio,16
+54.,One Hundred Years of Solitude,79
+55.,Ivanhoe,9
+56.,The Red Badge of Courage,8
+57.,Anne of Green Gables,45
+58.,Black Beauty,80
+59.,Peter Pan,4
+60.,A Farewell to Arms,80
+61.,The House of the Seven Gables,13
+62.,Lord of the Flies,15
+63.,The Prince and the Pauper,49
+64.,A Portrait of the Artist as a Young Man,85
+65.,Lord Jim,84
+66.,Harry Potter and the Chamber of Secrets,30
+67.,The Red & the Black,72
+68.,The Stranger,50
+69.,The Trial,55
+70.,Lady Chatterley's Lover,86
+71.,Kidnapped: The Adventures of David Balfour,42
+72.,The Catcher in the Rye,63
+73.,Fahrenheit 451,40
+74.,A Journey to the Center of the Earth,37
+75.,Vanity Fair,80
+76.,All Quiet on the Western Front,69
+77.,Gone with the Wind,99
+78.,My Ántonia,93
+79.,Of Mice and Men,99
+80.,The Vicar of Wakefield,25
+81.,A Connecticut Yankee in King Arthur's Court,24
+82.,White Fang,43
+83.,Fathers and Sons,55
+84.,Doctor Zhivago,59
+85.,The Decameron,64
+86.,Nineteen Eighty-Four,16
+87.,The Jungle,2
+88.,The Da Vinci Code,83
+89.,Persuasion,83
+90.,Mansfield Park,54
+91.,Candide,98
+92.,For Whom the Bell Tolls,13
+93.,Far from the Madding Crowd,63
+94.,The Fellowship of the Ring,33
+95.,The Return of the Native,98
+96.,Sons and Lovers,34
+97.,Charlotte's Web,68
+98.,The Swiss Family Robinson,92
+99.,Bleak House,19
+100.,Père Goriot,71
+101.,Utopia,72
+102.,"The History of Tom Jones, a Foundling",61
+103.,Harry Potter and the Prisoner of Azkaban,21
+104.,Kim,37
+105.,The Sound and the Fury,25
+106.,Harry Potter and the Goblet of Fire,86
+107.,The Mill on the Floss,58
+108.,A Wrinkle in Time,49
+109.,The Hound of the Baskervilles,80
+110.,The Two Towers,32
+111.,The War of the Worlds,76
+112.,Middlemarch,40
+113.,The Age of Innocence,81
+114.,The Color Purple,37
+115.,Northanger Abbey,37
+116.,East of Eden,87
+117.,On the Road,29
+118.,Catch-22,41
+119.,Around the World in Eighty Days,19
+120.,Hard Times,20
+121.,Beloved,39
+122.,Mrs. Dalloway,86
+123.,To the Lighthouse,76
+124.,The Magician's Nephew,89
+125.,Harry Potter and the Order of the Phoenix,41
+126.,The Sun Also Rises,90
+127.,The Good Earth,90
+128.,Silas Marner,30
+129.,Love in the Time of Cholera,47
+130.,Rebecca,63
+131.,Jude the Obscure,53
+132.,Twilight,41
+133.,A Passage to India,11
+134.,The Plague,57
+135.,Nicholas Nickleby,82
+136.,The Pearl,65
+137.,Ethan Frome,10
+138.,The Tale of Genji,32
+139.,The Giver,93
+140.,The Alchemist,64
+141.,The Strange Case of Dr. Jekyll and Mr. Hyde,52
+142.,Robinson Crusoe,5
+143.,Tender is the Night,1
+144.,The Idiot,22
+145.,Hatchet,97
+146.,The Kite Runner,87
+147.,One Flew Over the Cuckoo's Nest,100
+148.,The Portrait of a Lady,25
+149.,The Outsiders,58
+150.,Ben-Hur,82
+151.,The Mayor of Casterbridge,22
+152.,"Cry, The Beloved Country",43
+153.,The Last Battle,74
+154.,Captains Courageous,68
+155.,The Castle,93
+156.,The Metamorphosis,16
+157.,The Magic Mountain (Der Zauberberg),43
+158.,James and the Giant Peach,16
+159.,The Horse and His Boy,1
+160.,Angels & Demons,83
+161.,The Voyage of the Dawn Treader,100
+162.,The Bell Jar,42
+163.,Women in Love,57
+164.,The Yearling,1
+165.,O Pioneers!,47
+166.,The Handmaid's Tale,30
+167.,The Moonstone,47
+168.,The Old Curiosity Shop,39
+169.,Little Dorrit,38
+170.,Prince Caspian: The Return to Narnia,33
+171.,Sister Carrie,83
+172.,The Silver Chair,35
+173.,The Hunger Games,98
+174.,This Side of Paradise,91
+175.,Eugénie Grandet,69
+176.,Of Human Bondage,75
+177.,Dream of the Red Chamber,65
+178.,Life of Pi,5
+179.,Harry Potter and the Deathly Hallows,93
+180.,Invisible Man,41
+181.,Steppenwolf,100
+182.,The Sorrows of Young Werther,93
+183.,Bridge to Terabithia,29
+184.,The Invisible Man,36
+185.,Holes,95
+186.,Siddhartha,23
+187.,A Tree Grows in Brooklyn,50
+188.,"Through the Looking-Glass, and What Alice Found There",18
+189.,In Cold Blood,30
+190.,The House of the Spirits,84
+191.,Adam Bede,78
+192.,The Betrothed,7
+193.,The Book Thief,36
+194.,Their Eyes Were Watching God,100
+195.,One Day in the Life of Ivan Denisovich,56
+196.,The Sea Wolf,63
+197.,Catching Fire,66
+198.,"Roll of Thunder, Hear My Cry",97
+199.,Death Comes for the Archbishop,49
+200.,The House of Mirth,100
+201.,Light in August,67
+202.,The Pickwick Papers,82
+203.,Remembrance of Things Past,93
+204.,Barchester Towers and the Warden,34
+205.,The Bridge of San Luis Rey,100
+206.,The Help,91
+207.,Murder on the Orient Express,93
+208.,The Lovely Bones,87
+209.,The Appeal,21
+210.,Dombey And Son,45
+211.,Slaughterhouse-Five,54
+212.,An American Tragedy,44
+213.,The Bluest Eye,9
+214.,Little House In the Big Woods,91
+215.,Pippi Longstocking,91
+216.,Germinal,24
+217.,The Heart Is a Lonely Hunter,14
+218.,The Woman In White,7
+219.,"Absalom, Absalom!",74
+220.,A Painted House,99
+221.,The Girl With the Dragon Tattoo,97
+222.,A Room With a View,70
+223.,Watership Down,60
+224.,Memoirs of a Geisha,84
+225.,Our Mutual Friend,100
+226.,Babbitt,6
+227.,The Red Pony,31
+228.,All the King's Men,53
+229.,Things Fall Apart,43
+230.,Lorna Doone,92
+231.,Johnny Tremain,5
+232.,Anne of Avonlea,93
+233.,Tuck Everlasting,59
+234.,The BFG,13
+235.,Cannery Row,59
+236.,The Joy Luck Club,1
+237.,The Silmarillion,20
+238.,Roots,53
+239.,Little House on the Prairie,74
+240.,Native Son,55
+241.,Stuart Little,66
+242.,Cross Fire,6
+243.,The Power and the Glory,26
+244.,A Clockwork Orange,26
+245.,The Phantom of the Opera,69
+246.,The Martian Chronicles,25
+247.,The Road,79
+248.,The Way of All Flesh,67
+249.,Diary of a Wimpy Kid: The Long Haul,7
+250.,Villette,25
+251.,The Curious Incident of the Dog In the Night-Time,26
+252.,The Mysterious Island,31
+253.,Song of Solomon,75
+254.,Nana,95
+255.,Quo Vadis,27
+256.,Main Street,71
+257.,Matilda,93
+258.,Lolita,24
+259.,Paper Towns,82
+260.,Sounder,59
+261.,"Are You There God? It's Me, Margaret",27
+262.,The Notebook,50
+263.,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,74
+264.,Atlas Shrugged,72
+265.,The Fountainhead,80
+266.,Number the Stars,21
+267.,The Firm,49
+268.,Swann's Way,2
+269.,Ender's Game,42
+270.,The Name of the Rose,29
+271.,A Time to Kill,38
+272.,Water for Elephants,11
+273.,The Time Machine,16
+274.,Eragon,69
+275.,The Hitchhiker's Guide to the Galaxy,4
+276.,Buddenbrooks,71
+277.,A Thousand Splendid Suns,49
+278.,The Witch of Blackbird Pond,62
+279.,And Then There Were None,40
+280.,A Separate Peace,51
+281.,Breaking Dawn,12
+282.,As I Lay Dying,23
+283.,The Girl Who Played With Fire,52
+284.,Where the Red Fern Grows,65
+285.,Le Morte D'Arthur,58
+286.,Mockingjay,54
+287.,The Pillars of the Earth,67
+288.,Persian Letters,96
+289.,The Client,69
+290.,Sula,81
+291.,Tales of a Fourth Grade Nothing,31
+292.,The Merry Adventures of Robin Hood of Great Renown In Nottinghamshire,29
+293.,Tortilla Flat,30
+294.,"Look Homeward, Angel",2
+295.,The Mystery of Edwin Drood,61
+296.,Brideshead Revisited,94
+297.,The Pelican Brief,50
+298.,Atonement,45
+299.,Washington Square,50
+300.,Like Water for Chocolate,39
+301.,The Golden Compass,75
+302.,The Secret Life of Bees,16
+303.,The Fault In Our Stars,20
+304.,Nostromo,1
+305.,Finnegans Wake,71
+306.,The Brethren,8
+307.,Coraline,37
+308.,Heart of Darkness,56
+309.,On the Banks of Plum Creek,76
+310.,Rebecca of Sunnybrook Farm,50
+311.,The Ambassadors,62
+312.,The Secret Agent,21
+313.,The House on Mango Street,16
+314.,Go Tell It on the Mountain,4
+315.,The Testament,66
+316.,The Clan of the Cave Bear,64
+317.,Cranford,7
+318.,Because of Winn-Dixie,23
+319.,My Side of the Mountain,62
+320.,The Runaway Jury,53
+321.,The Mouse and the Motorcycle,99
+322.,The Lost Symbol,78
+323.,The Forsyte Saga,64
+324.,Gone Girl,13
+325.,The Lightning Thief,15
+326.,The Last Days of Pompeii,66
+327.,The Reader,73
+328.,Caddie Woodlawn,29
+329.,The Tale of Despereaux,43
+330.,The Girl Who Kicked the Hornet's Nest,6
+331.,Dear Mr. Henshaw,29
+332.,The Killer Angels,36
+333.,Chronicle of a Death Foretold,29
+334.,The Five People You Meet In Heaven,31
+335.,The Master and Margarita,16
+336.,"Winesburg, Ohio",92
+337.,"""P"" Is for Peril",79
+338.,My Sister's Keeper,92
+339.,Barnaby Rudge,17
+340.,Howards End,46
+341.,The Broker,14
+342.,The Camel Club,30
+343.,The Rainbow,62
+344.,The Man In the Iron Mask,71
+345.,Mary Poppins,30
+346.,Artemis Fowl,88
+347.,Dear John,45
+348.,Cold Mountain,35
+349.,Flowers for Algernon,11
+350.,The Dark Is Rising,62
+351.,Resurrection,93
+352.,Fearless Fourteen,39
+353.,A Sentimental Journey Through France and Italy,34
+354.,The King of Torts,18
+355.,The Graveyard Book,38
+356.,The Quiet American,79
+357.,The Chamber,60
+358.,The English Patient,47
+359.,Snow Falling on Cedars,44
+360.,The Long Winter,6
+361.,"Sarah, Plain and Tall",80
+362.,Cross Country,24
+363.,The Spy Who Came In from the Cold,24
+364.,A Game of Thrones,25
+365.,The Thorn Birds,1
+366.,Old Yeller,66
+367.,"Ramona Quimby, Age 8",99
+368.,Death In Venice,24
+369.,By the Shores of Silver Lake,85
+370.,Inferno,31
+371.,Schindler's List,31
+372.,Jonathan Livingston Seagull,43
+373.,The Stand,41
+374.,The Last Juror,55
+375.,Shiloh,93
+376.,Girl With a Pearl Earring,18
+377.,The Murder of Roger Ackroyd,38
+378.,It,69
+379.,The Rainmaker,34
+380.,The Poisonwood Bible,49
+381.,The Indian in the Cupboard,32
+382.,The Maltese Falcon,83
+383.,The Warden,96
+384.,The Summons,23
+385.,Encyclopedia Brown: Boy Detective,22
+386.,The Time Traveler's Wife,91
+387.,The Incredible Journey,47
+388.,Daughter of Fortune,8
+389.,Shirley,21
+390.,"Bud, Not Buddy",93
+391.,The Horse Whisperer,90
+392.,The Street Lawyer,67
+393.,Nausea,60
+394.,To Have and Have Not,51
+395.,The Bridges of Madison County,87
+396.,Anne of the Island,42
+397.,The Winter of Our Discontent,83
+398.,The Shining,64
+399.,The Tenant of Wildfell Hall,41
+400.,First Family,72
+401.,The Partner,17
+402.,The Girl on the Train,23
+403.,The Black Arrow: A Tale of the Two Roses,20
+404.,The Rise of Silas Lapham,44
+405.,The Choice,75
+406.,The Virginian: A Horseman of the Plains,42
+407.,A Walk to Remember,19
+408.,The Maze Runner,60
+409.,The Westing Game,75
+410.,Misty of Chincoteague,25
+411.,Diary of a Wimpy Kid: The Last Straw,54
+412.,King Solomon's Mines,82
+413.,The Princess of Cleves,93
+414.,Jacob Have I Loved,20
+415.,Mrs. Frisby and the Rats of NIMH,13
+416.,Misery,10
+417.,The Cider House Rules,25
+418.,King of the Wind,10
+419.,The Once and Future King,81
+420.,The Witches,31
+421.,The Subtle Knife,58
+422.,When You Reach Me,18
+423.,Carrie,1
+424.,The Moon and Sixpence,25
+425.,The Higher Power of Lucky,43
+426.,"Looking Backward, 2000-1887",9
+427.,The Wings of the Dove,39
+428.,The Summer of the Swans,16
+429.,Dangerous Liaisons,28
+430.,Jurassic Park,24
+431.,The Absolutely True Diary of a Part-time Indian,88
+432.,The Grey King,98
+433.,The Leopard,69
+434.,The Mammoth Hunters,76
+435.,The Trumpet of the Swan,18
+436.,The Lucky One,55
+437.,These Happy Golden Years,95
+438.,Arrowsmith,95
+439.,Julie of the Wolves,10
+440.,The Screwtape Letters,90
+441.,The Fall,13
+442.,The No. 1 Ladies' Detective Agency,95
+443.,Worst Case,98
+444.,Lost Horizon,12
+445.,The Gunslinger,54
+446.,The Slave Dancer,83
+447.,Harry Potter and the Half-Blood Prince,62
+448.,Inkheart,15
+449.,Ramona and her Father,30
+450.,Inkspell,20
+451.,Ramona the Pest,33
+452.,Walk Two Moons,16
+453.,Miss Peregrine's Home for Peculiar Children,56
+454.,The Chocolate War,54
+455.,Sophie's Choice,57
+456.,Looking for Alaska,73
+457.,Breakfast at Tiffany's,88
+458.,The Razor's Edge,74
+459.,Dreamcatcher,67
+460.,Orlando,34
+461.,The Things they Carried,36
+462.,Little Town on the Prairie,54
+463.,Nights in Rodanthe,6
+464.,The Amber Spyglass,81
+465.,The Miraculous Journey of Edward Tulane,98
+466.,Flatland,53
+467.,Diary of a Wimpy Kid,64
+468.,The Memory Keeper's Daughter,28
+469.,The Wedding,80
+470.,Fried Green Tomatoes at the Whistle-Stop Cafe,56
+471.,The Cricket in Times Square,22
+472.,The Phantom Tollbooth,32
+473.,Rob Roy,36
+474.,The Death of Ivan Ilych,60
+475.,Alex Cross's Trial,52
+476.,Kenilworth,12
+477.,The Life and Opinions of Tristram Shandy,41
+478.,The Remains of theDay,7
+479.,"M.C. Higgins, The Great",50
+480.,Call It Courage,59
+481.,Go Set a Watchman,47
+482.,Bleachers,5
+483.,Elijah of Buxton,87
+484.,Swimsuit,58
+485.,Cat's Cradle,78
+486.,The Caine Mutiny,85
+487.,The Heart of the Matter,31
+488.,"Harriet, the Spy",74
+489.,Darkness at Noon,14
+490.,A Prayer for Owen Meany,5
+491.,The God of Small Things,75
+492.,The Associate,32
+493.,The Shack,5
+494.,The Naked and the Dead,57
+495.,The Sea of Monsters,49
+496.,Stranger in a Strange Land,82
+497.,Vision in White,5
+498.,The Whipping Boy,61
+499.,Room,95
+500.,Deception Point,67

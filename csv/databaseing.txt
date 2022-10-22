@@ -1,0 +1,7 @@
+DISTRICT(DistrictID,DistrictName) +
+PROVINCE(ProvinceID,ProvinceName,DistrictID) +
+BRANCH(BranchID,BranchName,ProvinceID)+
+EMPLOYEE(EmployeeID,EmployeeName,EmployeeSurname,BranchID)+
+BOOK(BookID,BookName,BookPrice) +
+CUSTOMER(CustomerID,CustomerName,CustomerSurname,BranchID)
+SALE(SaleID,EmployeeID,CustomerID,BookID,SaleDate)
